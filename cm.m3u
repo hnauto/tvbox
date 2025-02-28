@@ -225,6 +225,14 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227110/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226641/index.m3u8
 #EXTINF:-1 tvg-id="欢腾购物" tvg-name="河南欢腾购物" tvg-logo="https://live.lizanyang.top/tv/欢腾购物.png" group-title="河南",河南欢腾购物
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
+#EXTINF:-1 tvg-id="新安电视台" tvg-name="新安电视台" tvg-logo="https://live.lizanyang.top/tv/新安电视台.png" group-title="河南地方",新安电视台
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227299/index.m3u8
+#EXTINF:-1 tvg-id="洛阳综合" tvg-name="洛阳综合" tvg-logo="https://live.lizanyang.top/tv/洛阳综合.png" group-title="河南地方",洛阳综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226542/index.m3u8
+#EXTINF:-1 tvg-id="洛阳科教" tvg-name="洛阳科教" tvg-logo="https://live.lizanyang.top/tv/洛阳科教.png" group-title="河南地方",洛阳科教
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8
+#EXTINF:-1 tvg-id="洛阳文娱" tvg-name="洛阳文旅" tvg-logo="https://live.lizanyang.top/tv/洛阳文旅.png" group-title="河南地方",洛阳文娱
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 tvg-id="郑州时政" tvg-name="郑州新闻" tvg-logo="https://live.lizanyang.top/tv/郑州综合.png" group-title="河南地方",郑州新闻
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226618/index.m3u8
 #EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://live.lizanyang.top/tv/郑州商都.png" group-title="河南地方",郑州商都
@@ -260,12 +268,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226539/index.m3u8
 #EXTINF:-1 tvg-id="永城综合" tvg-name="永城综合" tvg-logo="https://live.lizanyang.top/tv/永城综合.png" group-title="河南地方",永城综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227057/index.m3u8
-#EXTINF:-1 tvg-id="洛阳综合" tvg-name="洛阳综合" tvg-logo="https://live.lizanyang.top/tv/洛阳综合.png" group-title="河南地方",洛阳综合
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226542/index.m3u8
-#EXTINF:-1 tvg-id="洛阳科教" tvg-name="洛阳科教" tvg-logo="https://live.lizanyang.top/tv/洛阳科教.png" group-title="河南地方",洛阳科教
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8
-#EXTINF:-1 tvg-id="洛阳文娱" tvg-name="洛阳文旅" tvg-logo="https://live.lizanyang.top/tv/洛阳文旅.png" group-title="河南地方",洛阳文娱
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 tvg-id="驻马店新闻综合" tvg-name="驻马店1套" tvg-logo="https://live.lizanyang.top/tv/驻马店.png" group-title="河南地方",驻马店1套
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226613/index.m3u8
 #EXTINF:-1 tvg-id="驻马店2套" tvg-name="驻马店2套" tvg-logo="https://live.lizanyang.top/tv/驻马店.png" group-title="河南地方",驻马店2套
@@ -428,8 +430,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226672/index.m3u8
 #EXTINF:-1 tvg-id="临颍县综合" tvg-name="临颍县综合" tvg-logo="https://live.lizanyang.top/tv/临颍县综合.png" group-title="河南地方",临颍县综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226873/index.m3u8
-#EXTINF:-1 tvg-id="新安电视台" tvg-name="新安电视台" tvg-logo="https://live.lizanyang.top/tv/新安电视台.png" group-title="河南地方",新安电视台
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227299/index.m3u8
 #EXTINF:-1 tvg-id="华龙有线" tvg-name="华龙有线" tvg-logo="https://live.lizanyang.top/tv/华龙有线.png" group-title="河南地方",华龙有线
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227307/index.m3u8
 #EXTINF:-1 tvg-id="沈丘综合" tvg-name="沈丘综合" tvg-logo="https://live.lizanyang.top/tv/沈丘综合.png" group-title="河南地方",沈丘综合
